@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Membuat Tabel Dist Binomial Empiris dengan X variabel random munculnya angka pada pelemparan mata uang sebanyak n kali!
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
