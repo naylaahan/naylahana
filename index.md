@@ -4,12 +4,12 @@
 
 ### Membuat Tabel Dist Binomial Empiris dengan X variabel random munculnya angka pada pelemparan mata uang sebanyak n kali!
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Function](/sample_page)
+<img src="D:\!! ZENIUS\Task 1-2\content\1.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Banding dengan hasil secara teoritis!](/pdf/sample_presentation.pdf)
+<img src="D:\!! ZENIUS\Task 1-2\content\2.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
