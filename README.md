@@ -1,8 +1,8 @@
-## Developer Portfolio Landing Page Template
+## NAYLA HANA AZKIA EL FARABI
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+5th semester student of Statistics study program at Faculty of Science and Mathematics Diponegoro University. Interest in statistical computing and data analyze, public speaking skills, coordinate in teams, as well as experience as a volunteer, public relations, and leadership.
 
 <img src="images/linkedingid.gif?raw=true"/>
 
