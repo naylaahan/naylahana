@@ -58,5 +58,6 @@ May every good steps we take, will guide us to the better future!💖
 Please come, see, and connect with me in LinkedIn!
 Click Here! 
 [Nayla Hana's LinkedIn](https://linkedin.com/in/naylahana) for know me well and more!
+
 <img src="images/linkedingid.gif?raw=true"/>
 ___
