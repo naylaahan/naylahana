@@ -2,22 +2,22 @@
 
 ### Introduction
 
-5th semester student of Statistics study program at Faculty of Science and Mathematics Diponegoro University. Interest in statistical computing and data analyze, public speaking skills, coordinate in teams, as well as experience as a volunteer, public relations, and leadership.
+Hello, Everyone! My name is Nayla Hana and please call me, Nayla!
 
 <img src="images/linkedingid.gif?raw=true"/>
 
-### Installation
+### ABOUT ME
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+5th semester student of Statistics study program at Faculty of Science and Mathematics Diponegoro University. Interest in statistical computing and data analyze, public speaking skills, coordinate in teams, as well as experience as a volunteer, public relations, and leadership.
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### PORTOFOLIO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+as you can see i am so interest in Big Data, Data science, Data Analyst, all everything about data and statistics!
 
 ```markdown
 Syntax highlighted code block
