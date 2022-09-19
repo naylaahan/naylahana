@@ -51,7 +51,7 @@ You guys deserve the grandest celebration of all. I wish you all the very best f
 
 May every good steps we take, will guide us to the better future!💖
 
-<vid src="images/launchinghimasta.mp4?raw=true"/>
+<img src="images/launchinghimasta.mp4?raw=true"/>
 
 ### LINKEDIN
 
