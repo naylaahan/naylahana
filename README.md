@@ -3,7 +3,7 @@
 ### Introduction
 
 Hello, Everyone! My name is Nayla Hana and please call me, Nayla!
-<img src="images/fotoaku.png?raw=true"/>
+<img src="images/fotoaku.jpg?raw=true"/>
 
 ### ABOUT ME
 
@@ -23,10 +23,10 @@ Thank so much kak Yustiana Indah for the opportunity, see you in next classes!
 
 Funfact, we are come from the same almamater and Faculty, Faculty of Science and Mathematics! Diponegoro University!
 
-<img src="images/week1.png?raw=true"/>
-<img src="images/week2.png?raw=true"/>
-<img src="images/week3.png?raw=true"/>
-<img src="images/week4.png?raw=true"/>
+<img src="images/week1.jpg?raw=true"/>
+<img src="images/week2.jpg?raw=true"/>
+<img src="images/week3.jpg?raw=true"/>
+<img src="images/week4.jpg?raw=true"/>
 
 as you can see this is on of my task at university to make a empiric binomial
 i am so interest in Big Data, Data science, Data Analyst, all everything about data and statistics!
@@ -51,13 +51,14 @@ You guys deserve the grandest celebration of all. I wish you all the very best f
 
 May every good steps we take, will guide us to the better future!💖
 
-<img src="images/launchinghimasta.mp4?raw=true"/>
+<vid src="images/launchinghimasta.mp4?raw=true"/>
 
 ### LINKEDIN
 
 Please come, see, and connect with me in LinkedIn!
 Click Here! 
-[Nayla Hana's LinkedIn](https://linkedin.com/in/naylahana) for know me well and more!
+[Nayla Hana's LinkedIn](https://linkedin.com/in/naylahana)
+for know me well and more!
 
 <img src="images/linkedingid.gif?raw=true"/>
 ___
