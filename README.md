@@ -12,7 +12,7 @@ ___
 
 ### PORTOFOLIO
 
-#### WEEK 1 STUDI INDEPENDEN ZENIUS
+#### [WEEK 1 STUDI INDEPENDEN ZENIUS]
 ##### INTRODUCTION TO DATA SCIENCE
 
 Another grateful day,
@@ -31,10 +31,27 @@ Funfact, we are come from the same almamater and Faculty, Faculty of Science and
 as you can see this is on of my task at university to make a empiric binomial
 i am so interest in Big Data, Data science, Data Analyst, all everything about data and statistics!
 
-<img src="images/1.png?raw=true"/>
-<img src="images/2.png?raw=true"/>
+#### [HEAD OF PUBLIC RELATIONS, HIMPUNAN MAHASISWA STATISTIKA UNDIP]
 
+Finally, the wait is over!
+Hard work, pay off!
 
+It's such a pleasure for me trusted to be the Head of Public Relations of Himasta Undip 2022
+
+and introducing my super incredible staffs
+Alya Almaida Larasati
+Perdinan Panggabean
+Edmundus Gigih
+Dita Cahya Ningrum
+Aisha Zafira
+Titania Panjaitan
+Angelica Susan
+
+You guys deserve the grandest celebration of all. I wish you all the very best for your future life. Congratulations to us!
+
+May every good steps we take, will guide us to the better future!💖
+
+<img src="images/launchinghimasta.mp4?raw=true"/>
 
 ### LINKEDIN
 
