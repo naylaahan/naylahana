@@ -23,5 +23,5 @@ i am so interest in Big Data, Data science, Data Analyst, all everything about d
 
 Please come, see, and connect with me in LinkedIn!
 Click Here! 
-[open issues](https://linkedin.com/in/naylahana) for know me well and more!
+[Nayla Hana's LinkedIn](https://linkedin.com/in/naylahana) for know me well and more!
 ___
